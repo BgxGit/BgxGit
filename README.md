@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @BgxGit
-- 👀 I’m interested in maths, computing and all type of games
-- 🌱 I’m currently learning C#
-- ⚡ Fun fact: Prout
+Maths teacher for secondary school in France. Mostly creating latex documents and Python simulations.
 
 <!---
 BgxGit/BgxGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
